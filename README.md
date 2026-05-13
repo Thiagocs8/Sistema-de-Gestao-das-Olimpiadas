@@ -127,7 +127,7 @@ O sistema segue uma arquitetura de **microsserviços em nuvem AWS**, com os segu
 
 Apresenta os atores (Administrador, Atleta, Juiz) e as principais funcionalidades do sistema. O caso de uso *Alocar Local* inclui obrigatoriamente *Verificar Conflito de Horário* via relacionamento `<<include>>`.
 
-<img src="imagens/diagrama-de-caso-de-uso.png" alt="Diagrama de Caso de Uso" width="700"/>
+<(https://github.com/Thiagocs8/Sistema-de-Gestao-das-Olimpiadas/blob/main/imagens/Diagrama%20de%20Casos%20de%20Uso.png)>
 
 ---
 
